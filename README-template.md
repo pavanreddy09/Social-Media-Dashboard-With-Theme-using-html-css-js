@@ -23,7 +23,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: (https://github.com/pavanreddy09/Social-Media-Dashboard-With-Theme-using-html-css-js)
-- Live Site URL:(https://pavanreddy09.github.io/Responsive-Profile-Card-Component-Webpage-Using-HTML-CSS-CSS-Flexbox/)
+- Live Site URL:(https://pavanreddy09.github.io/Social-Media-Dashboard-With-Theme-using-html-css-js/)
 
 ### Built with
 
